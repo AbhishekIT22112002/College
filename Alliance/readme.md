@@ -2,7 +2,6 @@
 
 **Figma Link** -https://www.figma.com/design/OYdqNSSvoB25aXobln140d/Untitled?node-id=0-1&t=HcOpk3RTKOpqDXpy-1
 
-**Deployed Link** - https://college-ruby.vercel.app/index.html
 
 The project involves the creation of an e-learning website using HTML, CSS, Bootstrap 5, JavaScript, MongoDB, jQuery and ExpressJs. The website aims to provide a user-friendly and responsive platform for learners to access educational content. 
 
