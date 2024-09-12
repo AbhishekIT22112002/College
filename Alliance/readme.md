@@ -52,6 +52,8 @@ Before you begin, ensure you have the following prerequisites:
 2. Open the project in your preferred text editor.
 3. Launch the `index.html` file in a web browser.
 
+[<img src="./img/md.jpg" width="250"/>](./img/md.jpg)
+
 ## Technologies Used
 
 - HTML
