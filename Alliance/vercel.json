@@ -1,0 +1,15 @@
+{
+    "version":2,
+    "builds":[
+        {
+            "src":"./College-main/Alliance/index.html",
+            "use" : "@vercel/node"
+        }
+    ],
+    "routes":[
+        {
+            "src" : "/(.*)",
+            "dest" : "/"
+        }
+    ]
+}
