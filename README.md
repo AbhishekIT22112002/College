@@ -31,22 +31,23 @@ Before you begin, ensure you have the following prerequisites:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AbhishekIT22112002/College.git
+      git clone https://github.com/AbhishekIT22112002/College.git
+   ```
 
    To access directory:
 
-```bash
-    cd College-main
-    cd Alliance
-```
+   ```bash
+      cd College-main
+      cd Alliance
+   ```
 
-Install dependencies (To run MongoDB you have to install these dependencies and also download MongoDB from browser):
+   Install dependencies (To run MongoDB you have to install these dependencies and also download MongoDB from browser):
 
-Note- First install nodejs from your browser
+   Note- First install nodejs from your browser
 
-```bash
-    npm install
-```
+   ```bash
+     npm install
+   ```
 
 2. Open the project in your preferred text editor.
 3. Launch the `index.html` file in a web browser.
